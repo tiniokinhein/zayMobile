@@ -1,0 +1,1 @@
+export const UPDATE_TOTAL_CART = 'UPDATE_TOTAL_CART'

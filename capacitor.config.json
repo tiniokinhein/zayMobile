@@ -1,0 +1,8 @@
+{
+  "appId": "com.bgzay.app",
+  "appName": "bgZay",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "cordova": {}
+}
