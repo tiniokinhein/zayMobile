@@ -42,7 +42,7 @@
     "redux-form": "^8.3.5",
     "redux-thunk": "^2.3.0",
     "shortid": "^2.2.15",
-    "swiper": "^5.3.7"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
